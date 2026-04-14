@@ -1,0 +1,63 @@
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+secret.key
+*.pem
+*.key
+
+# =========================
+# Node / React / Frontend
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+build/
+dist/
+.next/
+out/
+
+# =========================
+# Python / FastAPI / Backend
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+
+# =========================
+# Database / Local Data
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Logs / Archives
+# =========================
+logs/
+*.log
+*.zip
+*.tar
+*.gz
