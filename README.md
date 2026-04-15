@@ -178,7 +178,7 @@ CulinaryCanvas/
 │   │   └── schemas/
 │   ├── main.py
 │   ├── requirements.txt
-│   └── ARCHITECTURE.md
+│   
 ├── frontend/
 │   ├── public/
 │   ├── src/
