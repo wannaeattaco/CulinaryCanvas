@@ -72,7 +72,7 @@ More details: `backend/ARCHITECTURE.md`.
 
 ### 1. Clone Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/wannaeattaco/CulinaryCanvas.git
 cd CulinaryCanvas
 ```
 
